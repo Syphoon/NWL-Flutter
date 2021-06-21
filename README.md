@@ -1,5 +1,10 @@
 <h1 align="center"> PayFlow </h1>
 
+<div align="center">
+
+<img alt="Foto da Aplicação" src=".github\app.png"  height="430">
+
+</div>
 
 <p align="center">
 <img alt="flutter version badge" src=".github\flutter.svg">
