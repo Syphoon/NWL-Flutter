@@ -1,16 +1,16 @@
-# payflow
+<h1 align="center"> PayFlow </h1>
 
-A new Flutter project.
 
-## Getting Started
+<p align="center">
+<img alt="flutter version badge" src=".github\flutter.svg">
+<img alt="rocketseat badge" src=".github\rocket.svg">
+<img alt="nwl day_01" src=".github\nwl_1.svg">
+</p>
 
-This project is a starting point for a Flutter application.
+## Sobre
 
-A few resources to get you started if this is your first Flutter project:
+Aplicativo está sendo desenvolvido durante a [NLW](https://nextlevelweek.com/) na trilha Flutter. A proposta inicial é um aplicativo para gerenciamento de boletos e manter um controle de estados de pagamento, com possibilidade de visualização de histórico de cadastro e estados.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Desenvolvimento
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esta é minha primeira experiência com flutter, não tenho familiaridade com a linguagem dart ou seus elementos. Com a primeira aula da NWL deu pra entender e captar as similaridades da linguagem dart com outras ferramentas que trazem propostas semelhantes (React, React Native , etc ...).
