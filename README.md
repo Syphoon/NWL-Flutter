@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img alt="Foto da Aplicação" src=".github\app.png"  height="430">
+<img alt="Gif da Aplicação" src=".github\app.gif"  height="430">
 
 </div>
 
