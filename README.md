@@ -9,5 +9,7 @@
 
 ## Sobre
 
-	A primeira aula serviu como introdução básica para a linguagem dart e o que é o flutter , e como os dois se complementam. Foi desenvolvida uma aplicação "somador" onde um valor é apresentado na tela quando o usuário clica em um botão (Incrementando ou Decrementando dependendo do botão).
+<p>
+A primeira aula serviu como introdução básica para a linguagem dart e o que é o flutter , e como os dois se complementam. Foi desenvolvida uma aplicação "somador" onde um valor é apresentado na tela quando o usuário clica em um botão (Incrementando ou Decrementando dependendo do botão).
+</p>
 
