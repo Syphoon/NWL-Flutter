@@ -10,13 +10,18 @@
 <img alt="flutter version badge" src=".github\flutter.svg">
 <img alt="dart version badge" src=".github\dart.svg">
 <img alt="rocketseat badge" src=".github\rocket.svg">
-<img alt="nwl day_02" src=".github\nwl.svg">
+<img alt="nwl day_03" src=".github\nwl.svg">
 </p>
 
 ## Sobre
 
 <p>
-	Resumidamente, a segunda aula englobou os principais aspectos do processo de desenvolvimento de um projeto, sendo eles: como utilizar um mockup para a criação de um tema para configurar completamente o front-end da sua aplicação, adiantando de forma significativa a velocidade de produção e possibilitando um código mais simples e fluído ; como dividir seus elementos e trabalhar um pouco da hierarquia entre eles, ou seja, como cada propriedade de um elemento que engloba outro muitas vezes acaba atrabalhando o tamanho de um botão ou alinhamento de outro (como aconteceu na aula), entro outros. Esses pontos são importantes pois são detalhes como esses que nos permitem a trabalhar em equipe e desenvolver novas tecnilogias juntos como uma "unidade" assim como foi o código dessa aula (#unidade). <br>
-	Nesta aula fui um pouquinho além, assim como a anterior e acabei experimentando como é navegar entre as telas utilizando botões e controle de timers para gerar o efeito da nossa Splash Page (após 3 segundos navegar para a página de login);
+	A terceira aula foi bem intensa e cheia de conteúdo, foi mostrado como configurar uma aplicação mobile com o firebase e como integrar ela no flutter de forma rápida e visual. Através da modularização do projeto podemos facilmente andar step by step e aprender cada modulo de forma rápida e ir se familiarizando com a ferramenta e a linguagem dart. Começamos também a tela home que é a janela principal do aplicativo, onde o usuário poderá acrescentar os seus boletos e visualiza-los.
+
 </p>
 
+## Extra
+
+<p>
+Nesta aula eu complementei experimentando uma tecnica que é bastante comum no react native, usar uma ternária para decidir a cor de algum elemento ativo e felizmente essa tecnica se manteve verdadeira para o flutter também. Como já tinhamos feito a appbar resolvi experimentar e colocar as informações do usuário logado já para visualização.
+</p>
