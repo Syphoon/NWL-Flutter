@@ -15,7 +15,6 @@
 
 <h1 align="center">Desafios</h1>
 
-
 - [x] Filtro Mensal
 - [x] Contagem de Boletos
 - [ ] Logout
@@ -33,7 +32,6 @@
 Esta é minha primeira experiência com flutter, não tenho familiaridade com a linguagem dart ou seus elementos. Com a primeira aula da NWL deu pra entender e captar as similaridades da linguagem dart com outras ferramentas que trazem propostas semelhantes (React, React Native , etc ...). A partir dessas familiaridades foi possível construir uma base bem legal pois ficou mais fácil de assimilar os elementos e o que estava acontecendo pouco a pouco em cada aula. Foi uma experiência muito boa e lucrativa para a aprendizado e acredito que mais pessoas deviam participar deste evento, os intrutores e a galera da comunidade estão sempre disponível no discord, juntos, desenvolvendo nessa semana cooperativa, para que no fim todos alcacemos o próximo nível.
 
 <h1 align="center"> Mockup </h1>
----
 <p align="center">
       <img alt="PayFlow" title="PayFlow" src=".github/capa.png" />
    </p>
@@ -58,5 +56,3 @@ $ flutter pub get
 - Inicie o app:
 $ flutter run
 ```
-
----
